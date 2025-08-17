@@ -21,7 +21,7 @@ It supports basic arithmetic operations, percentage, sign toggle, and includes a
 1. Clone the repository:
 
    git clone https://github.com/dev1gottia/react-tailwind-shadcn-calculator.git
-   cd react-calculator
+   cd react-tailwind-shadcn-calculator
 
 2. Install dependencies:
 
